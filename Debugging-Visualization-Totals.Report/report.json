@@ -287,7 +287,7 @@
           "z": 0.00
         },
         {
-          "config": "{\"name\":\"70d69390d19bed440a41\",\"layouts\":[{\"id\":0,\"position\":{\"x\":17.310664605873257,\"y\":154.17394685575945,\"z\":5000,\"width\":385.9418457648546,\"height\":34.589127686472814,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Raw Sales Data Per Day - New 2\",\"textStyle\":{\"fontWeight\":\"bold\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":2,\"Percent\":0.6}}}}}}}]}}}",
+          "config": "{\"name\":\"70d69390d19bed440a41\",\"layouts\":[{\"id\":0,\"position\":{\"x\":17.310664605873257,\"y\":154.17394685575945,\"z\":5000,\"width\":385.9418457648546,\"height\":34.589127686472814,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Raw Sales Data Per Day - New 3\",\"textStyle\":{\"fontWeight\":\"bold\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":2,\"Percent\":0.6}}}}}}}]}}}",
           "filters": "[]",
           "height": 34.59,
           "width": 385.94,
